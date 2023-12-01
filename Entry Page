@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Personal Blog</title>
+      </head> 
+   <body style="background-color:black;">
+
+<a href="riyl nyc blueprint.html">
+
+<img src="riyl logo copy.jpg" alt="entry link" class="tile" style= "height: 300px;
+   width: 300px;" ></a>
+
+    </body>
+</html>
+
+<link rel="stylesheet" href="riyl style sheet.css">
